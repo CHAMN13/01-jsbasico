@@ -7,16 +7,16 @@
 // Concatenar
 "Walter " + "Friagas"
 
-// Negacion, operador unitario
+// Negación, operador unitario
 !false
 
-// Asignacion, con =
+// Asignación, con =
 var a  = 1;
 
 // Comparar, con ==
 3 == "3";
 
-// Valida que ambos valeres sean estrictamente del mismo tipo, numero o string
+// Valida que ambos valores sean estrictamente del mismo tipo, numero o string
 3 === "3";
 
 // Menor o igual
@@ -25,7 +25,7 @@ var a  = 1;
 5 <= 6
 5 >= 6
 
-// Valida dos valores si ambos son iguales
+// Valida si ambos valores son iguales
 a && b
 
 // Valida dos valores si uno es verdad
