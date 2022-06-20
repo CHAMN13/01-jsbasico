@@ -1,4 +1,4 @@
-// Operacion, operador binario
+// Operacion, operador binarios
 3 + 2
 50 - 10
 10 * 20
